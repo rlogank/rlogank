@@ -18,7 +18,3 @@ I am a web-developer that uses tools like React and Tailwind to construct concis
 📄 Hiring? Have a peek at my **[my resume](https://rlogank.com/static/media/logan-keene-resume.d0f3a353c61df6016cc9.pdf)**
 
 ⚡ Fun fact **I have 2 absolutely insane cats.**
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rlogank&" alt="rlogank" /></p>
-
