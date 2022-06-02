@@ -11,7 +11,7 @@ I am a web-developer that uses tools like React and Tailwind to construct concis
 
 💻 All of my projects are available at **[rlogank.com](https://rlogank.com/)**
 
-💬 Ask me about **Tailwind CSS and/or React**
+💬 Ask me about **Tailwind CSS, React**
 
 📫 Reach me at **rlogank@icloud.com**
 
