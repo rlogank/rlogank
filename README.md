@@ -2,7 +2,7 @@
 
 I am a web-developer that uses tools like React and Tailwind to construct concise, functional web applications
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rlogank&label=Profile%20views&color=29b639&style=flat" alt="rlogank" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rlogank&label=Profile%20views&color=0969DA&style=flat" alt="rlogank" /> </p>
 
 
 🔭 I’m currently working on **[a React website builder](https://rlogank.com/site-builder/)**
