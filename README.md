@@ -1,6 +1,6 @@
 <h1>Hi, I'm Logan</h1>
 
-I am a React web-developer that uses tools like React and Tailwind to construct concise, functional web applications
+I am a web-developer that uses tools like React and Tailwind to construct concise, functional web applications
 
 
 • 🔭 I’m currently working on **[a React website builder](https://rlogank.com/site-builder/)**
